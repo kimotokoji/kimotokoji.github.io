@@ -18,8 +18,7 @@
 **Methodologies**： High-Voltage Transmission Electron Microscopy (HVTEM), High-Resolution Transmission Electron Microscopy (HRTEM), 
 Convergent-Beam Electron Diffraction (CBED), Coherent Convergent-Beam Electron Diffraction, Electron Energy-Loss Spectroscopy, 
 Energy-Dispersive X-ray Spectroscopy (EDXS), Energy-Filtering Transmission Electron Microscopy (EFTEM), Spatially-Resolved EELS, 
-Fresnel Fringe Method, DV-X alpha, Chemical Lattice Imaging, Scanning Transmission Electron Microscopy (STEM), Annular Dark-Field (ADF) imaging, 
-4D-STEM, monochromator, 3D Fourier transform of through-focus TEM images, etc.  
+Fresnel Fringe Method, DV-X alpha, Chemical Lattice Imaging, Scanning Transmission Electron Microscopy (STEM), Annular Dark-Field (ADF) imaging, 4D-STEM, unsupervised machine learning, monochromator, 3D Fourier transform of through-focus TEM images, etc.  
 **Materials**： MgO, Au cluster, SiO2/Si interface (bird's beak), Stainless steel (sensitization), metal multilayer (GMR),
 CoCr alloys for (longitudinal and perpendicular) magnetic recording, interlayer dielectrics (BPSG), DRAM, Gate-oxide (silicon dioxide), 
 silicon oxynitride, interconnection in ULSI, high-k (dielectric constant) material, alumina, high-Tc superconductor cuprate (copper oxide), 
