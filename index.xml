@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Koji KIMOTO: Profile page</title>
-    <link>https://kimotokoji.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Koji KIMOTO: Profile page</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 05 Apr 2026 17:09:59 +0900</lastBuildDate>
-    <atom:link href="https://kimotokoji.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced transmission electron microscopy and materials characterization</title>
-      <link>https://kimotokoji.github.io/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Sun, 05 Apr 2026 17:09:59 +0900</pubDate>
-      <guid>https://kimotokoji.github.io/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>&lt;p&gt;Transmission electron microscopy encompasses imaging, diffractometry, and spectroscopy techniques, enabling a variety of materials characterizations. This website describes the electron microscopy research and materials evaluation conducted by Kimoto.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#1-high-resolution-transmission-electron-microscopy-hrtem&#34;&gt;1. &lt;strong&gt;High-resolution transmission electron microscopy (HRTEM)&lt;/strong&gt;&lt;/a&gt;
@@ -50,23 +50,23 @@
     </item>
     <item>
       <title>230405 update</title>
-      <link>https://kimotokoji.github.io/posts/260405/</link>
+      <link>http://localhost:1313/posts/260405/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0900</pubDate>
-      <guid>https://kimotokoji.github.io/posts/260405/</guid>
+      <guid>http://localhost:1313/posts/260405/</guid>
       <description>&lt;p&gt;Research page is updated.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://kimotokoji.github.io/posts/my-first-paper/</link>
+      <link>http://localhost:1313/posts/my-first-paper/</link>
       <pubDate>Sun, 22 Mar 2026 17:25:17 +0900</pubDate>
-      <guid>https://kimotokoji.github.io/posts/my-first-paper/</guid>
+      <guid>http://localhost:1313/posts/my-first-paper/</guid>
       <description>&lt;p&gt;This is the first post. Two pages, &amp;ldquo;about&amp;rdquo; and &amp;ldquo;publications&amp;rdquo; are made.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pulications</title>
-      <link>https://kimotokoji.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Sun, 22 Mar 2026 17:09:59 +0900</pubDate>
-      <guid>https://kimotokoji.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#selected-papers&#34;&gt;Selected papers&lt;/a&gt;
 &lt;ul&gt;
@@ -186,9 +186,9 @@ Imperial College Press (2014), ISBN 978-1848167896 &lt;br&gt;
     </item>
     <item>
       <title>CV: Koji KIMOTO</title>
-      <link>https://kimotokoji.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 22 Mar 2026 17:07:30 +0900</pubDate>
-      <guid>https://kimotokoji.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;&lt;strong&gt;National Institute for Materials Science (NIMS)&lt;/strong&gt;&lt;br&gt;
 Director of Center for Basic Research on Materials&lt;br&gt;
 Group Leader of Electron Microscopy Group&lt;/p&gt;
