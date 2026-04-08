@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researches on Koji KIMOTO: Profile page</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Researches on Koji KIMOTO: Profile page</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 22 Mar 2026 17:09:59 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/kmt_research_e_0.9/</link>
+      <pubDate>Sun, 22 Mar 2026 17:09:59 +0900</pubDate>
+      <guid>http://localhost:1313/research/kmt_research_e_0.9/</guid>
+      <description>&lt;h1 id=&#34;advanced-transmission-electron-microscopy-and-materials-characterization&#34;&gt;Advanced transmission electron microscopy and materials characterization&lt;/h1&gt;
+&lt;p&gt;Transmission electron microscopy encompasses imaging, diffractometry, and spectroscopy techniques, enabling a variety of materials characterizations. This website describes the electron microscopy research and materials evaluation conducted mainly on Electron Microscopy Group.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#advanced-transmission-electron-microscopy-and-materials-characterization&#34;&gt;Advanced transmission electron microscopy and materials characterization&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-high-resolution-transmission-electron-microscopy-hrtem&#34;&gt;1. &lt;strong&gt;High-resolution transmission electron microscopy (HRTEM)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-observation-of-atomic-clusters-using-ultra-high-voltage-tem&#34;&gt;1.1. Observation of atomic clusters using ultra-high-voltage TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-practical-coma-free-alignment-for-tem&#34;&gt;1.2. Practical coma-free alignment for TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#13-tem-resolution-assessment-using-3d-fourier-transform-of-through-focus-images&#34;&gt;1.3. TEM resolution assessment using 3D Fourier transform of through-focus images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#14-observation-of-tio2-nanosheet-using-a-monochromated-low-voltage-tem&#34;&gt;1.4. Observation of TiO2 nanosheet using a monochromated low-voltage TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#15-counting-electrons-in-temstemeels-measurements&#34;&gt;1.5. Counting electrons in TEM/STEM/EELS measurements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2-electron-energy-loss-spectroscopy-eels&#34;&gt;2. &lt;strong&gt;Electron Energy-Loss Spectroscopy (EELS)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#21-high-resolution-quantitative-elemental-mapping-by-energy-filtered-tem-eftem&#34;&gt;2.1 High-resolution quantitative elemental mapping by energy-filtered TEM (EFTEM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#22-chemical-state-analysis-using-spatially-resolved-eels&#34;&gt;2.2. Chemical state analysis using spatially-resolved EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#23-element-selective-atomic-column-imaging-using-stem-eels&#34;&gt;2.3. Element-selective atomic-column imaging Using STEM-EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#24-improvement-of-energy-resolution-hardware-and-software&#34;&gt;2.4. Improvement of energy resolution: Hardware and software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#25-monochromator-for-tem-imaging-and-eels&#34;&gt;2.5. Monochromator for TEM imaging and EELS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3-scanning-transmission-electron-microscopy-stem&#34;&gt;3. &lt;strong&gt;Scanning Transmission Electron Microscopy (STEM)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#31-dopant-measurement-using-multiple-fast-acquisition-sensitivity-enhancement&#34;&gt;3.1. Dopant measurement using multiple fast acquisition: Sensitivity enhancement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#32-atomic-position-measurement-at-the-picometer-precision&#34;&gt;3.2. Atomic-position measurement at the picometer precision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#33-quantification-of-adf-images-and-breakdown-of-the-first-born-approximation&#34;&gt;3.3. Quantification of ADF images and breakdown of the first Born approximation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#34--4d-stem-and-its-integration-with-machine-learning-on-going&#34;&gt;3.4.  4D-STEM and its integration with machine learning (on going)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#4-appendix&#34;&gt;4. Appendix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#acknowledgments&#34;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1-high-resolution-transmission-electron-microscopy-hrtem&#34;&gt;1. &lt;strong&gt;High-resolution transmission electron microscopy (HRTEM)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;11-observation-of-atomic-clusters-using-ultra-high-voltage-tem&#34;&gt;1.1. Observation of atomic clusters using ultra-high-voltage TEM&lt;/h3&gt;
+&lt;p&gt;　Using an ultra-high-voltage electron microscope (accelerating voltage 1 MeV), we observed Au nanoparticles embedded in single-crystal MgO. To avoid lattice fringes of the MgO crystal, we intentionally tilted the specimen from the crystal plane axis, i.e., off-Bragg condition, and observed clusters consisting of a few Au atoms &lt;strong&gt;(Electron Microscopy Society of Japan Paper Award (1992). This work was supervised by Prof. Nobuo Tanaka and Prof. Kazuhiro Mihama) &lt;a href=&#34;https://doi.org/10.1093/oxfordjournals.jmicro.a050733&#34;&gt;[JEM 1989]&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

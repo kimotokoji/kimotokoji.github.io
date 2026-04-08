@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Koji KIMOTO: Profile page</title>
+    <link>https://kimotokoji.github.io/</link>
+    <description>Recent content on Koji KIMOTO: Profile page</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 05 Apr 2026 17:09:59 +0900</lastBuildDate>
+    <atom:link href="https://kimotokoji.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced transmission electron microscopy and materials characterization</title>
+      <link>https://kimotokoji.github.io/research/</link>
+      <pubDate>Sun, 05 Apr 2026 17:09:59 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/research/</guid>
+      <description>&lt;p&gt;Transmission electron microscopy encompasses imaging, diffractometry, and spectroscopy techniques, enabling a variety of materials characterizations. This website describes the electron microscopy research and materials evaluation conducted by Kimoto.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-high-resolution-transmission-electron-microscopy-hrtem&#34;&gt;1. &lt;strong&gt;High-resolution transmission electron microscopy (HRTEM)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-observation-of-atomic-clusters-using-ultra-high-voltage-tem&#34;&gt;1.1. Observation of atomic clusters using ultra-high-voltage TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-practical-coma-free-alignment-for-tem&#34;&gt;1.2. Practical coma-free alignment for TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#13-tem-resolution-assessment-using-3d-fourier-transform-of-through-focus-images&#34;&gt;1.3. TEM resolution assessment using 3D Fourier transform of through-focus images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#14-observation-of-tio2-nanosheet-using-a-monochromated-low-voltage-tem&#34;&gt;1.4. Observation of TiO2 nanosheet using a monochromated low-voltage TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#15-counting-electrons-in-temstemeels-measurements&#34;&gt;1.5. Counting electrons in TEM/STEM/EELS measurements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2-electron-energy-loss-spectroscopy-eels&#34;&gt;2. &lt;strong&gt;Electron Energy-Loss Spectroscopy (EELS)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#21-high-resolution-quantitative-elemental-mapping-by-energy-filtered-tem-eftem&#34;&gt;2.1 High-resolution quantitative elemental mapping by energy-filtered TEM (EFTEM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#22-chemical-state-analysis-using-spatially-resolved-eels&#34;&gt;2.2. Chemical state analysis using spatially-resolved EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#23-element-selective-atomic-column-imaging-using-stem-eels&#34;&gt;2.3. Element-selective atomic-column imaging Using STEM-EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#24-improvement-of-energy-resolution-hardware-and-software&#34;&gt;2.4. Improvement of energy resolution: Hardware and software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#25-monochromator-for-tem-imaging-and-eels&#34;&gt;2.5. Monochromator for TEM imaging and EELS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3-scanning-transmission-electron-microscopy-stem&#34;&gt;3. &lt;strong&gt;Scanning Transmission Electron Microscopy (STEM)&lt;/strong&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#31-dopant-measurement-using-multiple-fast-acquisition-sensitivity-enhancement&#34;&gt;3.1. Dopant measurement using multiple fast acquisition: Sensitivity enhancement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#32-atomic-position-measurement-at-the-picometer-precision&#34;&gt;3.2. Atomic-position measurement at the picometer precision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#33-quantification-of-adf-images-and-breakdown-of-the-first-born-approximation&#34;&gt;3.3. Quantification of ADF images and breakdown of the first Born approximation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#34--4d-stem-and-its-integration-with-machine-learning-on-going&#34;&gt;3.4.  4D-STEM and its integration with machine learning (on going)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#4-appendix&#34;&gt;4. Appendix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#acknowledgments&#34;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1-high-resolution-transmission-electron-microscopy-hrtem&#34;&gt;1. &lt;strong&gt;High-resolution transmission electron microscopy (HRTEM)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;11-observation-of-atomic-clusters-using-ultra-high-voltage-tem&#34;&gt;1.1. Observation of atomic clusters using ultra-high-voltage TEM&lt;/h3&gt;
+&lt;p&gt;　Using an ultra-high-voltage electron microscope (accelerating voltage 1 MeV), we observed Au nanoparticles embedded in single-crystal MgO. To avoid lattice fringes of the MgO crystal, we intentionally tilted the specimen from the crystal plane axis, i.e., off-Bragg condition, and observed clusters consisting of a few Au atoms &lt;strong&gt;(Electron Microscopy Society of Japan Paper Award (1992). This work was supervised by Prof. Nobuo Tanaka and Prof. Kazuhiro Mihama) &lt;a href=&#34;https://doi.org/10.1093/oxfordjournals.jmicro.a050733&#34;&gt;[JEM 1989]&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>230405 update</title>
+      <link>https://kimotokoji.github.io/posts/260405/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/posts/260405/</guid>
+      <description>&lt;p&gt;Research page is updated.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://kimotokoji.github.io/posts/my-first-paper/</link>
+      <pubDate>Sun, 22 Mar 2026 17:25:17 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/posts/my-first-paper/</guid>
+      <description>&lt;p&gt;This is the first post. Two pages, &amp;ldquo;about&amp;rdquo; and &amp;ldquo;publications&amp;rdquo; are made.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pulications</title>
+      <link>https://kimotokoji.github.io/publications/</link>
+      <pubDate>Sun, 22 Mar 2026 17:09:59 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/publications/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#selected-papers&#34;&gt;Selected papers&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#4d-stem-and-machine-learning&#34;&gt;4D-STEM and machine learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#high-sn-ratio-and-quantitaitve-stem-imaging&#34;&gt;High SN-ratio and quantitaitve STEM imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#high-spatial-resolution-stem-eels&#34;&gt;High spatial-resolution STEM-EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#high-energy-resolution-tem-eels&#34;&gt;High energy-resolution TEM-EELS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#high-spatial-resolution-tem&#34;&gt;High spatial-resolution TEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#convergent-beam-electron-diffraction&#34;&gt;Convergent-beam electron diffraction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reviews&#34;&gt;Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#books&#34;&gt;Books&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;selected-papers&#34;&gt;Selected papers&lt;/h2&gt;
+&lt;h3 id=&#34;4d-stem-and-machine-learning&#34;&gt;4D-STEM and machine learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spatially resolved diffractometry with atomic-column resolution&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Kazuo Ishizuka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.ultramic.2011.01.029&#34;&gt;Ultramicroscopy, 111 (&lt;strong&gt;2011&lt;/strong&gt;) 1111-1116&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-negative matrix factorization&lt;/strong&gt; for mining big data obtained using four-dimensional scanning transmission electron microscopy&lt;br&gt;
+F. Uesugi, S. Koshiya,  J. Kikkawa, T. Nagai, K. Mitsuishi, K. Kimoto&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.ultramic.2020.113168&#34;&gt;Ultramicroscopy 221 (&lt;strong&gt;2021&lt;/strong&gt;) 113168&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unsupervised machine learning combined with 4D scanning transmission electron microscopy for bimodal nanostructural analysis&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Jun Kikkawa, Koji Harano, Ovidiu Cretu, Yuki Shibazaki, Fumihiko Uesugi&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1038/s41598-024-53289-5&#34;&gt;Scientific Reports 14 (&lt;strong&gt;2024&lt;/strong&gt;) 2901&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Unveiling &lt;strong&gt;Twist Domains in Monolayer MoS2 through 4D-STEM and Unsupervised Machine Learning&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Ovidiu Cretu, Koji Harano, Fumihiko Uesugi, Jun Kikkawa, Kohei Aso, Yoshifumi Oshima, Takashi Matsumoto, Yoshiki Sakuma&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1002/smtd.202501065&#34;&gt;Small Methods 9 (&lt;strong&gt;2025&lt;/strong&gt;) e01065&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nonnegative matrix factorization incorporating domain specific constraints&lt;/strong&gt; for four dimensional scanning transmission electron microscopy&lt;br&gt;
+Koji Kimoto, Fumihiko Uesugi, Koji Harano, Jun Kikkawa, Ovidiu Cretu, Yuki Shibazaki, Motoki Shiga, Atsushi Togo&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1038/s41598-025-23541-7&#34;&gt;Scientific Reports 15 (&lt;strong&gt;2025&lt;/strong&gt;) 39143&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;high-sn-ratio-and-quantitaitve-stem-imaging&#34;&gt;High SN-ratio and quantitaitve STEM imaging&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Direct observation of single dopant atom in light-emitting phosphor of β-SiAlON : Eu2+&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Rong-Jun Xie, Yoshio Matsui, Kazuo Ishizuka and Naoto Hirosaki&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1063/1.3076110&#34;&gt;Appl. Phys. Lett., 94 (&lt;strong&gt;2009&lt;/strong&gt;) 041908&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local crystal structure analysis with several picometer precision&lt;/strong&gt; using scanning transmission electron microscopy&lt;br&gt;
+Koji Kimoto, Toru Asaka, Xiuzhen Yu, Takuro Nagai, Yoshio Matsui and Kazuo Ishizuka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.ultramic.2009.11.014&#34;&gt;Ultramicroscopy, 110 (&lt;strong&gt;2010&lt;/strong&gt;) 778-782&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantitative annular dark-field imaging of single-layer graphene—II: atomic-resolution image contrast&lt;/strong&gt;&lt;br&gt;
+Shunsuke Yamashita, Shogo Koshiya, Takuro Nagai, Jun Kikkawa, Kazuo Ishizuka and Koji Kimoto&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1093/jmicro/dfv053&#34;&gt;Microscopy, 64 (&lt;strong&gt;2015&lt;/strong&gt;) 409-418&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Atomic number dependence of Z contrast&lt;/strong&gt; in scanning transmission electron microscopy&lt;br&gt;
+Shunsuke Yamashita, Jun Kikkawa, Keiichi Yanagisawa, Takuro Nagai, Kazuo Ishizuka &amp;amp; Koji Kimoto&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1038/s41598-018-30941-5&#34;&gt;Sci. Rep., 8 (&lt;strong&gt;2018&lt;/strong&gt;) 12325&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;high-spatial-resolution-stem-eels&#34;&gt;High spatial-resolution STEM-EELS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Element-selective imaging of atomic columns in a crystal using STEM and EELS&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Toru Asaka, Takuro Nagai, Mitsuhiro Saito, Yoshio Matsui &amp;amp; Kazuo Ishizuka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1038/nature06352&#34;&gt;Nature, 450 (&lt;strong&gt;2007&lt;/strong&gt;) 702-704&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Decisive factors for realizing atomic-column resolution using STEM and EELS&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Kazuo Ishizuka, Yoshio Matsui&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.micron.2007.09.011&#34;&gt;Micron, 39 (&lt;strong&gt;2008&lt;/strong&gt;) 653-657&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;high-energy-resolution-tem-eels&#34;&gt;High energy-resolution TEM-EELS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software techniques for EELS to realize about 0.3 eV energy resolution using 300 kV FEG-TEM&lt;/strong&gt;&lt;br&gt;
+K. Kimoto, Y. Matsui&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1046/j.1365-2818.2002.01083.x&#34;&gt;J. Microsc., 208 (&lt;strong&gt;2002&lt;/strong&gt;) 224&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;0.23 eV Energy Resolution Obtained Using a Cold Field-emission Gun and a Streak Imaging Technique&lt;/strong&gt;&lt;br&gt;
+K. Kimoto, K. Ishizuka, T. Asaka, T. Nagai and Y. Matsui&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.micron.2005.03.008&#34;&gt;Micron, 36 (&lt;strong&gt;2005&lt;/strong&gt;) 465-469&lt;/a&gt;.  -&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advantages of a Monochromator for Bandgap Measurements Using Electron Energy-Loss Spectroscopy&lt;/strong&gt;&lt;br&gt;
+K. Kimoto, G. Kothleitner, W. Grogger, Y. Matsui and F. Hofer&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.micron.2004.11.001&#34;&gt;Micron, 36 (&lt;strong&gt;2005&lt;/strong&gt;) 185-189&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;high-spatial-resolution-tem&#34;&gt;High spatial-resolution TEM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Observations of Gold Atomic Clusters&lt;/strong&gt; in Magnesium Oxide Films under Off-Bragg Conditions&lt;br&gt;
+Koji KIMOTO, Nobuo TANAKA , Kazuhiro MIHAMA&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1093/oxfordjournals.jmicro.a050733&#34;&gt;Journal of Electron Microscopy, 38 (&lt;strong&gt;1989&lt;/strong&gt;)165–171&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical Procedure for Coma-Free Alignment Using Caustic Figure&lt;/strong&gt;&lt;br&gt;
+K. Kimoto, K. Ishizuka, N. Tanaka and Y. Matsui&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/S0304-3991(03)00020-2&#34;&gt;Ultramicroscopy, 96 (&lt;strong&gt;2003&lt;/strong&gt;) 219-227&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assessment of lower-voltage TEM performance using 3D Fourier transform of through-focus series&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Keiji Kurashima, Takuro Nagai, Megumi Ohwada, Kazuo Ishizuka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.ultramic.2012.06.012&#34;&gt;Ultramicroscopy, 121 (&lt;strong&gt;2012&lt;/strong&gt;) 31–37&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantitative evaluation of temporal partial coherence using 3D Fourier transforms of through-focus TEM images&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Hidetaka Sawada, Takeo Sasaki, Yuta Sato, Takuro Nagai, Megumi Ohwada, Kazu Suenaga and Kazuo Ishizuka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.ultramic.2013.06.008&#34;&gt;Ultramicroscopy, 134 (&lt;strong&gt;2013&lt;/strong&gt;) 86-93&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;convergent-beam-electron-diffraction&#34;&gt;Convergent-beam electron diffraction&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Measurement of Strain in Locally Oxidized Silicon using Convergent-Beam Electron Diffraction&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto, Katsuhisa Usami, Hiroshi Sakata and Michiyoshi Tanaka&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1143/JJAP.32.L211&#34;&gt;Jpn. J. Appl. Phys. 32 (&lt;strong&gt;1993&lt;/strong&gt;) L211&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reviews&#34;&gt;Reviews&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scanning Transmission Electron Microscopy&lt;/strong&gt;&lt;br&gt;
+Koji KIMOTO&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1007/978-981-10-6156-1_95&#34;&gt;Compendium of Surface and Interface Analysis (2018) 587-592&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical aspects of monochromators developed for transmission electron microscopy&lt;/strong&gt;&lt;br&gt;
+Koji Kimoto&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1093/jmicro/dfu027&#34;&gt;Microscopy, 63 (2014) 337-344&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scanning Transmission Electron Microscopy Of Nanomaterials: Basics Of Imaging And Analysis&lt;/strong&gt;&lt;br&gt;
+Nobuo Tanaka ed.&lt;br&gt;
+Imperial College Press (2014), ISBN 978-1848167896 &lt;br&gt;
+&lt;em&gt;Chapter STEM-EELS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物質・材料研究のための透過電子顕微鏡&lt;/strong&gt;&lt;br&gt;
+木本浩司、三石和貴、三留正則、原徹、長井拓郎 &lt;br&gt;
+講談社(2020) ISBN　978-4-06-520386-6&lt;br&gt;
+&lt;em&gt;1.概論 2.ハードウエア 6.STEM 8.EELS を担当&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;透過電子顕微鏡 第2版 (表面分析技術選書)&lt;/strong&gt;&lt;br&gt;
+日本表面真空学会編、田中信夫、幾原雄一、木本浩司、津田健治、森下茂幸、渡辺万三志&lt;br&gt;
+丸善出版(2026) ISBN 978-4621312773&lt;br&gt;
+&lt;em&gt;STEMの章を担当&lt;/em&gt;　　&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>CV: Koji KIMOTO</title>
+      <link>https://kimotokoji.github.io/about/</link>
+      <pubDate>Sun, 22 Mar 2026 17:07:30 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;National Institute for Materials Science (NIMS)&lt;/strong&gt;&lt;br&gt;
+Director of Center for Basic Research on Materials&lt;br&gt;
+Group Leader of Electron Microscopy Group&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#research-interest&#34;&gt;Research Interest:&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#developmentimprovement-of-advanced-transmission-electron-microscopy&#34;&gt;Development/improvement of advanced transmission electron microscopy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#microscopic-characterization-of-advanced-materials&#34;&gt;Microscopic characterization of advanced materials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#professional-experience&#34;&gt;Professional Experience:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#education&#34;&gt;Education:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#awards&#34;&gt;Awards:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#researcher-information&#34;&gt;Researcher Information:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#web-links&#34;&gt;Web Links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#keywords&#34;&gt;Keywords:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-interest&#34;&gt;Research Interest:&lt;/h2&gt;
+&lt;h3 id=&#34;developmentimprovement-of-advanced-transmission-electron-microscopy&#34;&gt;Development/improvement of advanced transmission electron microscopy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Transmission Electron Microscopy (TEM) and Electron Energy-Loss Spectroscopy (EELS).&lt;/li&gt;
+&lt;li&gt;Scanning transmission electron microscopy (STEM).&lt;/li&gt;
+&lt;li&gt;4D-STEM with unsupervised machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;microscopic-characterization-of-advanced-materials&#34;&gt;Microscopic characterization of advanced materials&lt;/h3&gt;
+&lt;p&gt;Ceramics, oxides, nitrides, strongly-correlated-electron materials, superconductors, dielectric materials for semiconductor devices, metallic glass, 2D materials, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
