@@ -6,8 +6,26 @@
     <description>Recent content on Koji KIMOTO: Profile page</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 05 Apr 2026 17:09:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://kimotokoji.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>260408 update</title>
+      <link>https://kimotokoji.github.io/posts/260408/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <guid>https://kimotokoji.github.io/posts/260408/</guid>
+      <description>&lt;h2 id=&#34;portfolio-website&#34;&gt;Portfolio website&lt;/h2&gt;
+&lt;p&gt;The site is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;URL: &lt;a href=&#34;https://kimotokoji.github.io/&#34;&gt;https://kimotokoji.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-websites&#34;&gt;Other websites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Koji KIMOTO of NIMS: &lt;a href=&#34;https://samurai.nims.go.jp/profiles/kimoto_koji?locale=en&#34;&gt;https://samurai.nims.go.jp/profiles/kimoto_koji?locale=en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Electron Microscopy Group: &lt;a href=&#34;https://www.nims.go.jp/AEMG/index.html&#34;&gt;https://www.nims.go.jp/AEMG/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DigitalMicrograph(DM) Scripts by Kimoto: &lt;a href=&#34;https://kimotokoji.github.io/DMscripts/&#34;&gt;https://kimotokoji.github.io/DMscripts/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Advanced transmission electron microscopy and materials characterization</title>
       <link>https://kimotokoji.github.io/research/</link>
@@ -49,7 +67,7 @@
 &lt;p&gt;　Using an ultra-high-voltage electron microscope (accelerating voltage 1 MeV), we observed Au nanoparticles embedded in single-crystal MgO. To avoid lattice fringes of the MgO crystal, we intentionally tilted the specimen from the crystal plane axis, i.e., off-Bragg condition, and observed clusters consisting of a few Au atoms &lt;strong&gt;(Electron Microscopy Society of Japan Paper Award (1992). This work was supervised by Prof. Nobuo Tanaka and Prof. Kazuhiro Mihama) &lt;a href=&#34;https://doi.org/10.1093/oxfordjournals.jmicro.a050733&#34;&gt;[JEM 1989]&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>230405 update</title>
+      <title>260405 update</title>
       <link>https://kimotokoji.github.io/posts/260405/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0900</pubDate>
       <guid>https://kimotokoji.github.io/posts/260405/</guid>
