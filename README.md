@@ -1,8 +1,7 @@
 # Koji KIMOTO: Profile Page
 
 This repository contains the source code for my portfolio website.  
-The site is built using [Hugo](https://gohugo.io/)   
-with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.  
+The site is built using [Hugo](https://gohugo.io/) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.  
 
 ## Website  
 - URL: https://kimotokoji.github.io/  
